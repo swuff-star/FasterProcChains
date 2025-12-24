@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace FasterProcChains
+namespace PhotoMode
 {
     internal static class Log
     {
