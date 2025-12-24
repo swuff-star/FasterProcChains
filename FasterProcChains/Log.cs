@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace ConfigurableCrafting
+namespace FasterProcChains
 {
     internal static class Log
     {
