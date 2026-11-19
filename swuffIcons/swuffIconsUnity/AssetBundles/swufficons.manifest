@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2468506355
+CRC: 460612090
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1cb02ab17d9339f506203070eae710b9
+    Hash: 16a0d13bb5c630b17051d5119c09216c
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1cb02ab17d9339f506203070eae710b9
+    Hash: 16a0d13bb5c630b17051d5119c09216c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,9 +17,14 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/texIconBrother8.png
+- Assets/texIconClayBruiser2.png
+- Assets/texIconBellBody2.png
+- Assets/texIconVagrant.png
+- Assets/texIconLemurianPolymorph.png
 - Assets/texIconWispBody.png
 - Assets/texIconLemurian.png
 - Assets/texIconImpBody2.png
+- Assets/texIconClayBody.png
 - Assets/texIconJellyfish4.png
 - Assets/texIconGreaterWisp.png
 - Assets/texIconBrother4.png

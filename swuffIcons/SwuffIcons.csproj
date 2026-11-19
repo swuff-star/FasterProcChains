@@ -7,6 +7,12 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <Compile Remove="swuffIconsUnity\**" />
+	  <EmbeddedResource Remove="swuffIconsUnity\**" />
+	  <None Remove="swuffIconsUnity\**" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="BepInEx.Analyzers" Version="1.0.8">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
