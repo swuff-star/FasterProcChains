@@ -10,8 +10,6 @@ re-renders a bunch of monsters to be more dynamic and vibrant. currently include
 
 and may include more in the future.
 
-CREDITS
-
-swuff★ - renders
-
-gummies139 - lots of feedback
+### CREDITS
+- swuff★ - renders
+- gummies139 - lots of feedback
